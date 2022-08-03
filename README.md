@@ -4,16 +4,15 @@
 #### You know what you are doing, and I am not responsible for any damages you may cause.
 #### If my work here helped you. Please consider donating, it would mean a lot to me.
 
-## Specification: 
-Intel Core i3-3227U
-4GB DDR3
-500GB HDD
-DVD±RW
-WiFi(not work)
-Bluetooth(not work)
-VGA NVIDIA GeForce GT 620M (disabled)
-Camera
-14″ WXGA
+## Specification Work
+- Intel Core i3-3227U
+- 4GB DDR3
+- 500GB HDD
+- DVD±RW
+- WiFi(not work) - use ethernet for connection
+- Bluetooth(not work) - use dongle for connection
+- VGA NVIDIA GeForce GT 620M (disabled) - make it use will cause problem.
+- Camera (work)
 
 ## Notes
 - Complete EFI packs are available in the releases page.
