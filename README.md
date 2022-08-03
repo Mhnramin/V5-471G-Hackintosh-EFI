@@ -18,7 +18,7 @@
 - Complete EFI packs are available in the releases page.
 - I will try my best to keep the repo updated with the latest kexts and OpenCore version.
 - Please do not clone or download the main branch for daily use: it may include unstable code just because it is my repository.
-- This EFI is configured with Older Catalina (Clover), Big Sur and Monterey (OpenCore).
+- This EFI is configured with Big Sur and Monterey (OpenCore).
 - With every EFI update you retrieve from here please remember to go through the post install guide and always change PlatformInfo before using, cause it's not include so have to manually add it.
 
 ## Credit
